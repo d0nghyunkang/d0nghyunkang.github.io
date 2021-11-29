@@ -85,8 +85,8 @@ author:
   bio              : "I'm a PhD candidate at the Department of Finance, Copenhagen Business School" # My research interests are empirical corporate finance and bankruptcy.
   location         : "Copenhagen, Denmark"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=1SIwhToAAAAJ&hl=en"
+  pubmed           : 
+  googlescholar    : # "https://scholar.google.com/citations?user=1SIwhToAAAAJ&hl=en"
   email            : "dhk.fi@cbs.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : # "http://orcid.org/yourorcidurl"
