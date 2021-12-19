@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome! 
 
 I am a PhD student at the Department of Finance, Copenhagen Business School. My research interests are empirical corporate finance, bankruptcy, and machine learning. You can find my CV [here](https://github.com/d0nghyunkang/d0nghyunkang.github.io/blob/63b140f5ea1ecbb96ee0e1ed00201856c5866a56/files/CV_DonghyunKang.pdf) and a list of my ongoing projects below.
 
