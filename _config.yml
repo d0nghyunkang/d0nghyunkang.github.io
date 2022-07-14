@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Donghyun Kang | Copenhagen Business School"
-title_separator          : "|"
+title_separator          : "&#124;"
 name                     : &name "Donghyun Kang"
 description              : &description "PhD Student in Finance at Copenhagen Business School"
 url                      : https://d0nghyunkang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
