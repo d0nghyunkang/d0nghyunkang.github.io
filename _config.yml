@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Donghyun Kang"
+title                    : "Donghyun Kang | Dept. of Finance at Copenhagen Business School"
 title_separator          : "-"
 name                     : &name "Donghyun Kang"
 description              : &description "PhD Student at Copenhagen Business School"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Donghyun Kang"
+  name             : "Donghyun Kang 2"
   avatar           : "profile.png"
   bio              : "PhD student at the Department of Finance, Copenhagen Business School" # My research interests are empirical corporate finance and bankruptcy.
   location         : "Copenhagen, Denmark"
