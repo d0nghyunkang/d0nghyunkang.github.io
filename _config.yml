@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Donghyun Kang | Dept. of Finance at Copenhagen Business School"
+title                    : "Donghyun Kang | Copenhagen Business School"
 title_separator          : "-"
 name                     : &name "Donghyun Kang"
-description              : &description "PhD Student at Copenhagen Business School"
+description              : &description "PhD Student in Finance at Copenhagen Business School"
 url                      : https://d0nghyunkang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "d0nghyunkang.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Donghyun Kang 2"
+  name             : "Donghyun Kang"
   avatar           : "profile.png"
   bio              : "PhD student at the Department of Finance, Copenhagen Business School" # My research interests are empirical corporate finance and bankruptcy.
   location         : "Copenhagen, Denmark"
