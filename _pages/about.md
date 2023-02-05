@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD student at the Department of Finance, Copenhagen Business School (CBS). My research interests are empirical corporate finance, bankruptcy, and machine learning. You can find my CV [here](https://d0nghyunkang.github.io/files/CV_DonghyunKang.pdf) and a list of my ongoing projects below.
+I am a PhD student at the Department of Finance, Copenhagen Business School (CBS). My research interests are empirical corporate finance, bankruptcy, and machine learning. You can find my CV [here](https://drive.google.com/file/d/1SY_e8njzKY0fNKhWppf6R-uq2BKBwI7M/view?usp=sharing) and a list of my ongoing projects below.
 
 
 ## Working paper
