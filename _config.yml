@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Donghyun Kang &#124; Copenhagen Business School" # &#124; is the symbol for the separator "|"
+title                    : "Donghyun Kang (강동현) &#124; Copenhagen Business School" # &#124; is the symbol for the separator "|"
 title_separator          : "-" 
 name                     : &name "Donghyun Kang"
 description              : &description "PhD Student in Finance at Copenhagen Business School"
