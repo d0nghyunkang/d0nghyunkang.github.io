@@ -23,4 +23,5 @@ I am a PhD student at the Department of Finance, Copenhagen Business School (CBS
 _Best Dissertation Award at Conference on Asia-Pacific Financial Markets (2022)_
 
 ## Work in progress
+### Bankruptcy and Serial Entrepreneurship
 ### Cartels and Managerial Accountability, with [Kasper Meisner Nielsen](http://www.kaspermeisnernielsen.com/)
