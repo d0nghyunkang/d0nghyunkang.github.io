@@ -12,15 +12,15 @@ redirect_from:
 
 I am a PhD student at the Department of Finance, Copenhagen Business School (CBS). My research interests are empirical corporate finance, bankruptcy, and machine learning. You can find my [**CV here**](https://d0nghyunkang.github.io/files/CV_DonghyunKang.pdf) and a list of my ongoing projects below.
 
+My first name is pronounced `dong-hyon` [(with sound)](https://forvo.com/word/donghyun/). 
 <!--- 
-My first name is pronounced (dong-hee-uhn) [with sound](https://forvo.com/word/donghyun/). 
 --->
 
 
 ## Working paper
 
 ### Bankruptcy and Serial Entrepreneurship (job market paper)
-Abstract coming soon!
+Abstract coming soon
 
 
 ### Biased Judges? Judge Characteristics and Bankruptcy Outcomes 
