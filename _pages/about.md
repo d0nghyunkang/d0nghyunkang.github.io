@@ -11,6 +11,7 @@ redirect_from:
 # Welcome!
 
 I am a PhD student at the Department of Finance, Copenhagen Business School (CBS). My research interests are empirical corporate finance, bankruptcy, and machine learning. You can find my [**CV here**](https://d0nghyunkang.github.io/files/CV_DonghyunKang.pdf) and a list of my ongoing projects below.
+
 I will be on the 2023/2024 academic job market.  
 <!--- 
 My first name is pronounced similar to `DOE-ng hee-uhn` [(with sound)](https://forvo.com/word/donghyun/). 
