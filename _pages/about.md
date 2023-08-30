@@ -14,7 +14,7 @@ I am a PhD student at the Department of Finance, Copenhagen Business School (CBS
 
 I will be on the 2023/2024 academic job market.  
 <!--- 
-My first name is pronounced similar to `DOE-ng hee-uhn` [(with sound)](https://forvo.com/word/donghyun/). 
+My first name is pronounced similar to `DOE/DOH-ng hee-uhn` [(with sound)](https://forvo.com/word/donghyun/). 
 --->
 
 
