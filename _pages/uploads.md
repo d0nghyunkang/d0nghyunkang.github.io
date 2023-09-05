@@ -2,6 +2,7 @@
 layout: archive
 title: "uploads"
 noindex: true # or give value `false`/leave blank if you won't render the meta tag
+sitemap: false
 permalink: /uploads/
 author_profile: true
 redirect_from:
