@@ -6,8 +6,6 @@ sitemap:
   exclude: "yes"
 permalink: /uploads/
 author_profile: true
-redirect_from:
-  - /upload
 ---
 
 {% include base_path %}
