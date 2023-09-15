@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "uploads"
-noindex: true 
 sitemap:
   exclude: "yes"
 permalink: /uploads/
