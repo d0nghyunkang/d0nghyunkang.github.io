@@ -249,7 +249,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-# Don't include documents in files in the sitemap
+# Don't include documents in files folder in the sitemap
 - scope:
       path: files/**
   values:
