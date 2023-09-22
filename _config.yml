@@ -68,6 +68,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://scholar.google.com/citations?user=1SIwhToAAAAJ&hl=en"
+    - "https://www.linkedin.com/in/dh-kang"
+    - "https://twitter.com/d0nghyunKang"
 
 
 # Analytics
@@ -88,7 +91,7 @@ author:
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=1SIwhToAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=1SIwhToAAAAJ&hl=en"
   email            : "dhk.fi@cbs.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -111,7 +114,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "d0nghyunkang"
+  twitter          : "d0nghyunKang"
   vine             :
   weibo            :
   xing             :
