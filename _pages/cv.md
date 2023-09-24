@@ -9,4 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="{{ site.url }}{{ site.baseurl }}/files/CV_DonghyunKang.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/files/CV_DonghyunKang.pdf" type="application/pdf" width="1000px" height="800px">
+    <embed src="{{ site.url }}{{ site.baseurl }}/files/CV_DonghyunKang.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.url }}{{ site.baseurl }}/files/CV_DonghyunKang.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
