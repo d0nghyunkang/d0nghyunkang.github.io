@@ -34,3 +34,21 @@ _Best Dissertation Award at Conference on Asia-Pacific Financial Markets (2022)_
 ### Bankruptcy Quarantines, with [Kasper Meisner Nielsen](http://www.kaspermeisnernielsen.com/)
 **Abstract**:
     This study examines the introduction of bankruptcy quarantines in Denmark. Quarantines disqualify managers of limited liability companies for up to 3 years if the bankruptcy court finds them guilty in gross negligent business practices. We find evidence consistent with quarantines discouraging future business activity and negligence: After the expiry of the bankruptcy quarantines, quarantined individuals are 15% less likely to be managers or owners. Quarantined individuals are also less likely to be involved in future bankruptcies or future criminal activities. Strawmen appointments seem to be the main negative side effect of quarantines: During the quarantine, the fraction of families that are active in management increases from 10% to 30%. Strawmen appointments change the managerial labor pool, resulting in an increasing fraction of CEOs that are foreign residents or receive social transfers. Overall, our findings provide the first systematic evidence on the consequences of bankruptcy quarantines.
+
+
+## First name pronunciation
+<ul>
+<li style="list-style-type:circle;font-size:14px">similar to "dong hee-uhn". Play sound below.</li>
+<li style="list-style-type:circle;font-size:14px"><audio id="speak_en">
+  <source type="audio/mp3" src="/files/donghyun_en.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+<audio id="speak_kr">
+  <source type="audio/mp3" src="/files/donghyun_kr.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+<div>
+	<button onclick="document.getElementById('speak_en').play()">English</button>
+	<button onclick="document.getElementById('speak_kr').play()">Korean</button>
+</div> </li>
+</ul>
