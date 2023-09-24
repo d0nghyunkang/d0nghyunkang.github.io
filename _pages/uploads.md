@@ -18,7 +18,7 @@ Uploads
 
 <strong>First name pronunciation:</strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">similar to "dong hee-uhn". Play sound below.</li>
+<li style="list-style-type:circle;font-size:14px">similar to `dong hee-uhn`. Play sound below.</li>
 <li style="list-style-type:circle;font-size:14px"><audio id="speak_en">
   <source type="audio/mp3" src="/files/donghyun_en.mp3"></source>
   <p>Your browser does not support the audio element.</p>
