@@ -180,15 +180,15 @@ kramdown:
 
 # Collections
 collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
   cv:
     output: true
     permalink: /:collection/:path/
   publicgoods:
     output: true
     permalink: /:collection/:path/
-#   publications:
-#     output: true
-#     permalink: /:collection/:path/
 #   portfolio:
 #     output: true
 #     permalink: /:collection/:path/
