@@ -9,7 +9,7 @@ main:
   # - title: "Public Goods"
   #   url: /publicgoods/
     
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
 
