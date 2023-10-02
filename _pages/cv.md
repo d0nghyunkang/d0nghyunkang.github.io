@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download my [**CV here**](https://donghyunkang.com/files/CV_DonghyunKang.pdf).
+You can download my [**CV here**](https://donghyunkang.com/files/CV_DonghyunKang.pdf){:target="_blank"}.
 
 
 <object data="{{ site.url }}{{ site.baseurl }}/files/CV_DonghyunKang.pdf" type="application/pdf" width="1000px" height="1100px">
