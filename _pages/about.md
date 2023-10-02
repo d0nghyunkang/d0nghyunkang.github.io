@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD student at the Department of Finance, Copenhagen Business School (CBS). My research interests are empirical corporate finance, bankruptcy and financial distress, and machine learning. You can find my [**CV here**](https://donghyunkang.com/files/CV_DonghyunKang.pdf) and a list of my ongoing projects below.
+I am a PhD student at the Department of Finance, Copenhagen Business School (CBS). My research interests are empirical corporate finance, bankruptcy and financial distress, and machine learning. You can find my [**CV here**](https://donghyunkang.com/files/CV_DonghyunKang.pdf){:target="_blank"} and a list of my ongoing projects below.
 
 I will be on the 2023/2024 academic job market.  
 <!--- 
@@ -31,7 +31,7 @@ Abstract coming soon
 _Best Dissertation Award at Conference on Asia-Pacific Financial Markets (2022)_
 
 ## Work in progress
-### Bankruptcy Quarantines, with [Kasper Meisner Nielsen](http://www.kaspermeisnernielsen.com/)
+### Bankruptcy Quarantines, with [Kasper Meisner Nielsen](http://www.kaspermeisnernielsen.com/){:target="_blank"}
 **Abstract**:
     This study examines the introduction of bankruptcy quarantines in Denmark. Quarantines disqualify managers of limited liability companies for up to 3 years if the bankruptcy court finds them guilty in gross negligent business practices. We find evidence consistent with quarantines discouraging future business activity and negligence: After the expiry of the bankruptcy quarantines, quarantined individuals are 15% less likely to be managers or owners. Quarantined individuals are also less likely to be involved in future bankruptcies or future criminal activities. Strawmen appointments seem to be the main negative side effect of quarantines: During the quarantine, the fraction of families that are active in management increases from 10% to 30%. Strawmen appointments change the managerial labor pool, resulting in an increasing fraction of CEOs that are foreign residents or receive social transfers. Overall, our findings provide the first systematic evidence on the consequences of bankruptcy quarantines.
 
