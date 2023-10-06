@@ -19,7 +19,7 @@ Abstract coming soon
     
 _Best Dissertation Award at Conference on Asia-Pacific Financial Markets (2022)_
 
-
+---
 ## Work in progress
 
 ### Bankruptcy Quarantines, with [Kasper Meisner Nielsen](http://www.kaspermeisnernielsen.com/){:target="_blank"} 
