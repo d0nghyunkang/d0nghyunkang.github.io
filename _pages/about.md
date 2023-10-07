@@ -9,22 +9,20 @@ redirect_from:
 ---
 
 <div id="layout-content">
-<p><img src="/images/profile.jpg" align="left" height="310"><br /> 
+<p><img src="/images/profile.jpg" align="left" width="30%"><br /> 
 
 I am a PhD candidate in Finance at Copenhagen Business School (CBS). 
 
 My research interests are empirical corporate finance, bankruptcy and financial distress, and machine learning.
 
 I will be on the 2023/2024 academic job market.  
+</p>
+</div>
 
 [**[Curriculum Vitae]**](https://donghyunkang.com/files/CV_DonghyunKang.pdf){:target="_blank"}   [**[Research]**](research.md)
 
-<br />
+E-mail: dhk.fi@cbs.dk
 
-E-mail: <a href="mailto:dhk.fi@cbs.dk">dhk.fi@cbs.dk</a> <br /><br /><br />
-
-</p>
-</div>
 
 ---
 
