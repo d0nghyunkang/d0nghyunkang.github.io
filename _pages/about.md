@@ -2,26 +2,19 @@
 permalink: /
 title: ""
 excerpt: "About me"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<div id="layout-content">
-<p><img src="/images/profile.jpg" align="left" width="30%"><br /> 
+# Welcome!
 
-I am a PhD candidate in Finance at Copenhagen Business School (CBS). 
-
-My research interests are empirical corporate finance, bankruptcy and financial distress, and machine learning.
-
-I will be on the 2023/2024 academic job market.  
-</p>
-</div>
+I am a PhD student at the Department of Finance, Copenhagen Business School (CBS). My research interests are empirical corporate finance, bankruptcy and financial distress, and machine learning.
 
 [**[Curriculum Vitae]**](https://donghyunkang.com/files/CV_DonghyunKang.pdf){:target="_blank"}   [**[Research]**](research.md)
 
-E-mail: dhk.fi@cbs.dk
+I will be on the 2023/2024 academic job market.
 
 
 ---
