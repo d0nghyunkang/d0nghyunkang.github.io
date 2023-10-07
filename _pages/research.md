@@ -9,7 +9,7 @@ author_profile: false
 
 ## Working papers
 
-### Bankruptcy and Serial Entrepreneurship (job market paper)
+### Wealth Protection in Bankruptcy and Serial Entrepreneurship (job market paper)
 Abstract coming soon
 
 ### Biased Judges? Judge Characteristics and Bankruptcy Outcomes [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590284){:target="_blank"} 
