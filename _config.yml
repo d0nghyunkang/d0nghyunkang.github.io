@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Donghyun Kang" # &#124; is the symbol for the separator "|"
 title_separator          : "-" 
 name                     : &name "Donghyun Kang"
-description              : &description "PhD Student in Finance at Copenhagen Business School"
+description              : &description "PhD candidate in Finance at Copenhagen Business School"
 url                      : "https://donghyunkang.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "d0nghyunkang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   name             : "Donghyun Kang"
   nickname         : "(강동현)"
   avatar           : "profile.jpg"
-  bio              : "PhD student at the Department of Finance, Copenhagen Business School" # My research interests are empirical corporate finance and bankruptcy.
+  bio              : "PhD candidate in Finance, Copenhagen Business School" # My research interests are empirical corporate finance and bankruptcy.
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : 
