@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div id="layout-content">
-<p><img src=/images/profile.jpg ALIGN=LEFT ALIGN=TOP Height=310><br /> 
+<p><img src="/images/profile.jpg" align="left" height="310"><br /> 
 
 I am a PhD candidate in Finance at Copenhagen Business School (CBS). 
 
