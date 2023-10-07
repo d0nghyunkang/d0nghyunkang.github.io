@@ -4,7 +4,7 @@ title: "uploads"
 sitemap:
   exclude: "yes"
 permalink: /uploads/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
