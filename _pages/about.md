@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<body>
+
 <div id="layout-content">
 <p><img src=/images/profile.jpg ALIGN=LEFT ALIGN=TOP Height=310><br /> 
 
@@ -25,7 +25,6 @@ E-mail: <a href="mailto:dhk.fi@cbs.dk">dhk.fi@cbs.dk</a> <br /><br /><br />
 
 </p>
 </div>
-</body>
 
 ---
 
