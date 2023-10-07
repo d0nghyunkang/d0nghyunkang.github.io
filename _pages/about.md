@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p><a href="/images/profile.jpg"><img src=/images/profile.jpg / ALIGN=LEFT ALIGH=TOP Height=310></a> <br /> 
+<p><img src=/images/profile.jpg ALIGN=LEFT ALIGN=TOP Height=310><br /> 
 
 I am a PhD candidate in Finance at Copenhagen Business School (CBS). 
 
