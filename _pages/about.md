@@ -14,7 +14,7 @@ I am a PhD student at the Department of Finance, Copenhagen Business School (CBS
 
 [**[Curriculum Vitae]**](https://donghyunkang.com/files/CV_DonghyunKang.pdf){:target="_blank"}   [**[Research]**](research.md)
 
-I will be on the 2023/2024 academic job market.
+I am on the 2023-2024 academic job market.
 
 
 ---
