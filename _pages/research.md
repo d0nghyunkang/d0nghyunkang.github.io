@@ -12,6 +12,8 @@ author_profile: false
 ### Wealth Protection in Bankruptcy and Serial Entrepreneurship (job market paper)
 Abstract coming soon
 
+_Financial News & KAFA Doctoral Student Dissertation Award_
+
 ### Biased Judges? Judge Characteristics and Bankruptcy Outcomes [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590284){:target="_blank"} 
 
 **Abstract**:
