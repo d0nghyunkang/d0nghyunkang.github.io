@@ -24,6 +24,7 @@ I am on the 2023-2024 academic job market.
 ### Wealth Protection in Bankruptcy and Serial Entrepreneurship (job market paper)
 Abstract coming soon
 
+_Financial News & KAFA Doctoral Student Dissertation Award_
 
 ### Biased Judges? Judge Characteristics and Bankruptcy Outcomes 
 **Abstract**:
