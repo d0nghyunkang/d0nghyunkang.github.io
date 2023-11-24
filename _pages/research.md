@@ -9,7 +9,7 @@ author_profile: false
 
 ## Working papers
 
-### Wealth Protection in Bankruptcy and Serial Entrepreneurship (job market paper)
+### Wealth Protection in Bankruptcy and Serial Entrepreneurship (job market paper)[[Link]](https://donghyunkang.com/files/Kang_JMP_2023.pdf){:target="_blank"}
 **Abstract**:
 I study whether wealth protection in personal bankruptcy provides a second chance to failed entrepreneurs. I exploit windfall wealth from inheritances to proxy for exogenous variation in personal wealth after bankruptcy. Windfall wealth increases reentry to business _only_ among entrepreneurs who did not experience severe losses in personal income or wealth before bankruptcy. Those who respond to windfall wealth by starting new businesses have lower profits, indicating their lower entrepreneurial quality. Overall, the findings suggest that bankruptcy policies increasing wealth protection can promote serial entrepreneurship, but their effectiveness is limited by low entrepreneurial quality and personal experience of severe losses.
 
