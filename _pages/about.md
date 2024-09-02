@@ -10,9 +10,7 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD student at the Department of Finance, Copenhagen Business School (CBS). My research interests are empirical corporate finance, bankruptcy and financial distress, and machine learning.
-
-I will be joining the Erasmus School of Economics, Erasmus University Rotterdam as an Assistant Professor of Finance in Fall.
+I am an Assistant Professor of Finance at the Erasmus School of Economics, Erasmus University Rotterdam. My research interests are empirical corporate finance, bankruptcy and financial distress, and machine learning. I finished my PhD program at the Department of Finance, Copenhagen Business School (CBS).
 
 [**[Curriculum Vitae]**](https://donghyunkang.com/files/CV_DonghyunKang.pdf){:target="_blank"}   [**[Research]**](research.md)
 
