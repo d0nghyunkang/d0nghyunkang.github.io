@@ -35,7 +35,7 @@ _Best Dissertation Award at Conference on Asia-Pacific Financial Markets (2022)_
 ### Disqualifying Managerial Misconduct in Corporate Bankruptcy, with [S. Lakshmi Naaraayanan](https://www.lakshmin.com/){:target="_blank"} and [Kasper Meisner Nielsen](http://www.kaspermeisnernielsen.com/){:target="_blank"}
 **Abstract**:
     This study examines the introduction of bankruptcy quarantines that disqualifies managers engaging in negligent business practices for up to 3 years. Using administrative register data from Denmark, we document that disqualifications discourage future business activity: After the quarantine, individuals are 15% less likely to be managers or business owners. Disqualified individuals are also less likely to be involved in future bankruptcies or future criminal activities. At the same time, the fraction of family members of disqualified individuals who are active in a management role increases from 10% to 30%. We also find changes to the managerial labor pool, resulting in more CEOs with a criminal record and those that rely solely on social transfers. Overall, our findings provide the first systematic evidence on the governance consequences of disqualifying managerial misconduct in corporate bankruptcies.
-
+ 
 
 
 ## First name pronunciation
