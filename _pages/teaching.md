@@ -16,8 +16,8 @@ author_profile: false
 
 
 ## Copenhagen Business School
-- Teaching Assistant, Corporate Finance course for undergraduates, 2020, 2021, 2023
+- Teaching Assistant, Undergraduate, Corporate Finance, 2020, 2021, 2023
   - Assisted Professors Rama Seth, Ulf Nielsson, and Yingjie Qi
 
-- Teaching Assistant, Empirial Finance course for master's students, 2024
+- Teaching Assistant, Postgraduate, Empirial Finance course, 2024
   - Assisted Professor Lena Jaroszek
