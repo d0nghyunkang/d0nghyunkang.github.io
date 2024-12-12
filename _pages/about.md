@@ -28,7 +28,7 @@ I study whether wealth protection in personal bankruptcy provides a second chanc
 
 **Award**: Financial News & KAFA Doctoral Student Dissertation Award
 
-**Presentations**: Erasmus University Rotterdam, NYU Stern, American Law and Economics Association Annual Meeting, Young Scholars Nordic Finance Workshop, Durham Conference for Finance Job Market Papers, FMA Asia/Pacific Conference, FMA Annual Meeting (Doctoral Student Consortium), Research in Behavioral Finance Conference, Conference on Empirical Legal Studies, Boca-ECGI Corporate Finance and Governance Conference, Paris December Finance Meeting*, MFA Annual Meeting*
+**Presentations** (including scheduled): Erasmus University Rotterdam, NYU Stern, American Law and Economics Association Annual Meeting, Young Scholars Nordic Finance Workshop, Durham Conference for Finance Job Market Papers, FMA Asia/Pacific Conference, FMA Annual Meeting (Doctoral Student Consortium), Research in Behavioral Finance Conference, Conference on Empirical Legal Studies, Boca-ECGI Corporate Finance and Governance Conference, Paris December Finance Meeting, MFA Annual Meeting
 
 ### Biased Judges? Judge Characteristics and Bankruptcy Outcomes 
 **Abstract**:
@@ -43,7 +43,7 @@ I study whether wealth protection in personal bankruptcy provides a second chanc
 **Abstract**:
     This study examines the introduction of bankruptcy quarantines that disqualifies managers engaging in negligent business practices for up to 3 years. Using administrative register data from Denmark, we document that disqualifications discourage future business activity: After the quarantine, individuals are 15% less likely to be managers or business owners. Disqualified individuals are also less likely to be involved in future bankruptcies or future criminal activities. At the same time, the fraction of family members of disqualified individuals who are active in a management role increases from 10% to 30%. We also find changes to the managerial labor pool, resulting in more CEOs with a criminal record and those that rely solely on social transfers. Overall, our findings provide the first systematic evidence on the governance consequences of disqualifying managerial misconduct in corporate bankruptcies.
  
-**Presentations**: Stockholm School of Economics (accounting), Financial Fraud, Misconduct and Market Manipulation Conference, CSR, the Economy and Financial Markets, Boca-ECGI Corporate Finance and Governance Conference, Conference on Empirical Legal Studies
+**Presentations** (including scheduled): Stockholm School of Economics (accounting), Financial Fraud, Misconduct and Market Manipulation Conference, CSR, the Economy and Financial Markets, Boca-ECGI Corporate Finance and Governance Conference, Conference on Empirical Legal Studies
 
 ## First name pronunciation
 <ul>
