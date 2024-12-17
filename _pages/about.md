@@ -26,8 +26,10 @@ My research interests are empirical corporate finance, bankruptcy and financial 
 **Abstract**:
 I study whether wealth protection in personal bankruptcy provides a second chance to failed entrepreneurs. I exploit windfall wealth from inheritances to proxy for exogenous variation in personal wealth after bankruptcy. Windfall wealth increases reentry to business _only_ among entrepreneurs who did not experience severe losses in personal income or wealth before bankruptcy. Those who respond to windfall wealth by starting new businesses have lower profits, indicating their lower entrepreneurial quality. Overall, the findings suggest that bankruptcy policies increasing wealth protection can promote serial entrepreneurship, but their effectiveness is limited by low entrepreneurial quality and personal experience of severe losses.
 
+<div style="font-size: 0.9em;">
 - **Award**: Financial News & KAFA Doctoral Student Dissertation Award
 - **Presentations** (including scheduled): Erasmus University Rotterdam, NYU Stern, American Law and Economics Association Annual Meeting, Young Scholars Nordic Finance Workshop, Durham Conference for Finance Job Market Papers, FMA Asia/Pacific Conference, FMA Annual Meeting (Doctoral Student Consortium), Research in Behavioral Finance Conference, Conference on Empirical Legal Studies, Boca-ECGI Corporate Finance and Governance Conference, Paris December Finance Meeting, MFA Annual Meeting
+</div>
 
 
 
