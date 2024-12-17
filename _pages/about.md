@@ -35,7 +35,7 @@ I study whether wealth protection in personal bankruptcy provides a second chanc
 **Abstract**:
     Exploiting random assignment of judges to corporate bankruptcy filings, I examine the effect of judge characteristics on outcomes. First, I find that cases assigned to judges who grew up during the Great Depression are more likely to emerge from bankruptcy, whereas those assigned to judges with economics training and conservative political ideology are less likely to. Second, I show that case duration is shorter (longer) when the potential case outcome is consistent (inconsistent) with judges' preferences. Third, the judge characteristics do not correlate with post-emergence outcomes. Overall, the findings suggest that the effect of judge characteristics may be concentrated in marginal cases where the economic benefits of liquidation versus emergence are not significantly different. 
 
-{: .notice--info .text-small}
+{: .small-font}
 - **Award**: Best Dissertation Award at Conference on Asia-Pacific Financial Markets (2022)
 - **Presentations**: Copenhagen Business School, Hong Kong University of Science and Technology, MFA Annual Meeting, FMCG Conference PhD Symposium, AsianFA Annual Conference, Finance Forum, FMA European Conference, Annual Conference of the European Association of Law and Economics, FMA Annual Meeting (Main & Doctoral Student Consortium & Special PhD Paper Presentation), Conference on Asia-Pacific Financial Markets, Australasian Finance and Banking Conference, PhD Nordic Finance Workshop
 
