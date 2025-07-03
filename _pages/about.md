@@ -12,7 +12,7 @@ redirect_from:
 
 I am an Assistant Professor of Finance at the Erasmus School of Economics, Erasmus University Rotterdam. I am also a Candidate Fellow at the Tinbergen Institute. 
 
-My research interests are empirical corporate finance, bankruptcy and financial distress, and machine learning. I obtained my PhD at the Department of Finance, Copenhagen Business School (CBS).
+My research interests are empirical corporate finance, bankruptcy and financial distress, and entrepreneurship. I obtained my PhD at the Department of Finance, Copenhagen Business School (CBS).
 
 
 [**[Curriculum Vitae]**](https://donghyunkang.com/files/CV_DonghyunKang.pdf){:target="_blank"}   [**[Research]**](research.md)
@@ -27,7 +27,7 @@ My research interests are empirical corporate finance, bankruptcy and financial 
 I study whether protecting post-bankruptcy wealth provides a second chance to failed entrepreneurs. I exploit windfall wealth from inheritances to proxy for exogenous variation in wealth after personal bankruptcy. Windfall wealth increases reentry to business _only_ among entrepreneurs who did not experience severe losses in personal income or wealth before bankruptcy. Those who respond to windfall wealth by starting new businesses have lower profits, indicating their lower entrepreneurial quality. Overall, the findings suggest that bankruptcy policies increasing wealth protection can promote serial entrepreneurship, but their effectiveness is limited by low entrepreneurial quality and personal experience of severe losses.
 
 - **Award**: Financial News & KAFA Doctoral Student Dissertation Award
-- **Presentations** (including scheduled): Erasmus University Rotterdam, NYU Stern, American Law and Economics Association Annual Meeting, Young Scholars Nordic Finance Workshop, Durham Conference for Finance Job Market Papers, FMA Asia/Pacific Conference, FMA Annual Meeting (Doctoral Student Consortium), Research in Behavioral Finance Conference, Conference on Empirical Legal Studies, Boca-ECGI Corporate Finance and Governance Conference, Paris December Finance Meeting, MFA Annual Meeting
+- **Presentations** (including scheduled): Erasmus University Rotterdam, NYU Stern, American Law and Economics Association Annual Meeting, Young Scholars Nordic Finance Workshop, Durham Conference for Finance Job Market Papers, FMA Asia/Pacific Conference, FMA Annual Meeting (Doctoral Student Consortium), Research in Behavioral Finance Conference, Conference on Empirical Legal Studies, Boca-ECGI Corporate Finance and Governance Conference, Paris December Finance Meeting, MFA Annual Meeting, GEIRC
 
 
 
@@ -45,7 +45,8 @@ I study whether protecting post-bankruptcy wealth provides a second chance to fa
     This study examines the introduction of bankruptcy quarantines that disqualifies managers engaging in negligent business practices for up to 3 years. Using administrative register data from Denmark, we document that disqualifications discourage future business activity: After the quarantine, individuals are 15% less likely to be managers or business owners. Disqualified individuals are also less likely to be involved in future bankruptcies or future criminal activities. At the same time, the fraction of family members of disqualified individuals who are active in a management role increases from 10% to 30%. We also find changes to the managerial labor pool, resulting in more CEOs with a criminal record and those that rely solely on social transfers. Overall, our findings provide the first systematic evidence on the governance consequences of disqualifying managerial misconduct in corporate bankruptcies.
 
 {: .fs-3}
-- **Presentations** (including scheduled): Stockholm School of Economics (accounting), Financial Fraud, Misconduct and Market Manipulation Conference, CSR, the Economy and Financial Markets, Boca-ECGI Corporate Finance and Governance Conference, Conference on Empirical Legal Studies
+- **Presentations** (including scheduled): Stockholm School of Economics (accounting), Financial Fraud, Misconduct and Market Manipulation Conference, CSR, the Economy and Financial Markets, Boca-ECGI Corporate Finance and Governance Conference, Conference on Empirical Legal Studies, CICF, GEIRC, FMA
+Annual Meeting, Corporate Finance Day
 
 ## First name pronunciation
 <ul>
