@@ -8,11 +8,13 @@ author_profile: false
 {% include base_path %}
 
 ## Erasmus School of Economics
-- Instructor, Undergraduate, FEB13096 Entrepreneurial Finance, 2024
+- Instructor, Undergraduate, FEB13096 Entrepreneurial Finance, 2024-
   
-- Instructor, Postgraduate, Advanced Seminar in Behavioral Finance, 2024
+- Instructor, Postgraduate, Advanced Seminar in Behavioral Finance, 2024-
   
-- Supervisor, Undergraduate, Bachelor Thesis, 2024
+- Supervisor, Undergraduate, Bachelor Thesis, 2024-
+
+- Supervisor, Postgraduate, Master Thesis, 2025-    
 
 
 ## Copenhagen Business School
