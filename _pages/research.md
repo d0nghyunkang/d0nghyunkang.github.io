@@ -9,9 +9,9 @@ author_profile: false
 
 ## Working papers
 
-### Wealth Protection in Bankruptcy and Serial Entrepreneurship [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030329){:target="_blank"}
+### Post-Bankruptcy Wealth and Serial Entrepreneurship [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030329){:target="_blank"}
 **Abstract**:
-I study whether protecting post-bankruptcy wealth provides a second chance to failed entrepreneurs. I exploit windfall wealth from inheritances to proxy for exogenous variation in wealth after personal bankruptcy. Windfall wealth increases reentry to business _only_ among entrepreneurs who did not experience severe losses in personal income or wealth before bankruptcy. Those who respond to windfall wealth by starting new businesses have lower profits, indicating their lower entrepreneurial quality. Overall, the findings suggest that bankruptcy policies increasing wealth protection can promote serial entrepreneurship, but their effectiveness is limited by low entrepreneurial quality and personal experience of severe losses.
+I study whether protecting post-bankruptcy wealth gives failed entrepreneurs a second chance. Exploiting windfall wealth from inheritances as exogenous variation in wealth after personal bankruptcy, I find that windfalls increase reentry to business _only_ among entrepreneurs who did not experience severe losses from their failed businesses. Those who restart after inheriting appear to survive at lower rates and earn less, suggestive evidence of lower performance. The findings suggest that bankruptcy policies increasing wealth protection can promote serial entrepreneurship, but their effectiveness appears limited by experiences of severe losses and the lower performance of entrepreneurs who restart after receiving windfall wealth.
 
 _Financial News & KAFA Doctoral Student Dissertation Award_
 
@@ -25,7 +25,7 @@ _Best Dissertation Award at Conference on Asia-Pacific Financial Markets (2022)_
 ---
 ## Work in progress
 
-### Disqualifying Managerial Misconduct in Corporate Bankruptcy, with [S. Lakshmi Naaraayanan](https://www.lakshmin.com/){:target="_blank"} and [Kasper Meisner Nielsen](http://www.kaspermeisnernielsen.com/){:target="_blank"}
+### Bankruptcy Quarantines, with [S. Lakshmi Naaraayanan](https://www.lakshmin.com/){:target="_blank"} and [Kasper Meisner Nielsen](http://www.kaspermeisnernielsen.com/){:target="_blank"}
 
 **Abstract**:
     This study examines the introduction of bankruptcy quarantines that disqualifies managers engaging in negligent business practices for up to 3 years. Using administrative register data from Denmark, we document that disqualifications discourage future business activity: After the quarantine, individuals are 15% less likely to be managers or business owners. Disqualified individuals are also less likely to be involved in future bankruptcies or future criminal activities. At the same time, the fraction of family members of disqualified individuals who are active in a management role increases from 10% to 30%. We also find changes to the managerial labor pool, resulting in more CEOs with a criminal record and those that rely solely on social transfers. Overall, our findings provide the first systematic evidence on the governance consequences of disqualifying managerial misconduct in corporate bankruptcies.
