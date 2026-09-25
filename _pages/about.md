@@ -27,7 +27,7 @@ My research interests are empirical corporate finance, bankruptcy and financial 
 I study whether protecting post-bankruptcy wealth gives failed entrepreneurs a second chance. Exploiting windfall wealth from inheritances as exogenous variation in wealth after personal bankruptcy, I find that windfalls increase reentry to business _only_ among entrepreneurs who did not experience severe losses from their failed businesses. Those who restart after inheriting appear to survive at lower rates and earn less, suggestive evidence of lower performance. The findings suggest that bankruptcy policies increasing wealth protection can promote serial entrepreneurship, but their effectiveness appears limited by experiences of severe losses and the lower performance of entrepreneurs who restart after receiving windfall wealth.
 
 - **Award**: Financial News & KAFA Doctoral Student Dissertation Award
-- **Presentations** (including scheduled): Erasmus University Rotterdam, NYU Stern, American Law and Economics Association Annual Meeting, Young Scholars Nordic Finance Workshop, Durham Conference for Finance Job Market Papers, FMA Asia/Pacific Conference, FMA Annual Meeting (Doctoral Student Consortium), Research in Behavioral Finance Conference, Conference on Empirical Legal Studies, Boca-ECGI Corporate Finance and Governance Conference, Paris December Finance Meeting, MFA Annual Meeting, GEIRC
+- **Presentations**: Erasmus University Rotterdam, NYU Stern, American Law and Economics Association Annual Meeting, Young Scholars Nordic Finance Workshop, Durham Conference for Finance Job Market Papers, FMA Asia/Pacific Conference, FMA Annual Meeting (Doctoral Student Consortium), Conference on Empirical Legal Studies, Boca-ECGI Corporate Finance and Governance Conference, Paris December Finance Meeting, MFA Annual Meeting, GEIRC
 
 
 
@@ -36,7 +36,7 @@ I study whether protecting post-bankruptcy wealth gives failed entrepreneurs a s
     Exploiting random assignment of judges to corporate bankruptcy filings, I examine the effect of judge characteristics on outcomes. First, I find that cases assigned to judges who grew up during the Great Depression are more likely to emerge from bankruptcy, whereas those assigned to judges with economics training and conservative political ideology are less likely to. Second, I show that case duration is shorter (longer) when the potential case outcome is consistent (inconsistent) with judges' preferences. Third, the judge characteristics do not correlate with post-emergence outcomes. Overall, the findings suggest that the effect of judge characteristics may be concentrated in marginal cases where the economic benefits of liquidation versus emergence are not significantly different. 
 
 - **Award**: Best Dissertation Award at Conference on Asia-Pacific Financial Markets (2022)
-- **Presentations**: Copenhagen Business School, Hong Kong University of Science and Technology, MFA Annual Meeting, FMCG Conference PhD Symposium, AsianFA Annual Conference, Finance Forum, FMA European Conference, Annual Conference of the European Association of Law and Economics, FMA Annual Meeting (Main & Doctoral Student Consortium & Special PhD Paper Presentation), Conference on Asia-Pacific Financial Markets, Australasian Finance and Banking Conference, PhD Nordic Finance Workshop
+- **Presentations**: Copenhagen Business School, Hong Kong University of Science and Technology, MFA Annual Meeting, AsianFA Annual Conference, Finance Forum, FMA European Conference, Annual Conference of the European Association of Law and Economics, FMA Annual Meeting
 
 
 ## Work in progress
@@ -45,8 +45,7 @@ I study whether protecting post-bankruptcy wealth gives failed entrepreneurs a s
 	This study examines the introduction of bankruptcy quarantines that disqualifies managers engaging in negligent business practices for up to 3 years. Using administrative register data from Denmark, we document that quarantines discourage future business activity: After the quarantine, individuals are less likely to be managers or business owners. Quarantined individuals are also less likely to be involved in future bankruptcies or future criminal activities. The declining activity of quarantined managers is partially offset by spouses and children becoming more active as managers and owners, reducing the effect of quarantines at the household level. We also document changes to the managerial labor pool, resulting in fewer CEOs with multiple bankruptcies and multiple white-collar crime convictions, and an increasing tendency to appoint strawmen managers, proxied by individuals on public transfers. Overall, our findings provide the first systematic evidence on consequences of bankruptcy quarantines.
 
 {: .fs-3}
-- **Presentations** (including scheduled): Stockholm School of Economics (accounting), Financial Fraud, Misconduct and Market Manipulation Conference, CSR, the Economy and Financial Markets, Boca-ECGI Corporate Finance and Governance Conference, Conference on Empirical Legal Studies, CICF, GEIRC, FMA
-Annual Meeting, Corporate Finance Day
+- **Presentations**: Stockholm School of Economics (accounting), Wharton-Chicago-Harvard Insolvency & Restructuring Conference, Boca-ECGI Corporate Finance and Governance Conference, Conference on Empirical Legal Studies, CICF, GEIRC, Financial Fraud, Misconduct and Market Manipulation Conference, FMA Annual Meeting
 
 ## First name pronunciation
 <ul>
